@@ -1,0 +1,4 @@
+print ("hey world")
+print ("its more blessed to give than to revieve")
+m = 55
+print (m)
